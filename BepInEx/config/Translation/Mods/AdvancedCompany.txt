@@ -1,0 +1,268 @@
+# AdvancedCompany
+
+#### МЕНЮ
+
+> AdvancedCompany settings=> Настройки AC
+
+#### Часто встречаются
+
+X=X
+Enable:=Активировать:
+Enabled:=Включено:
+secs=секунд
+
+### Кнопки
+
+> Create new=> Создать новый
+> Save=<size\=8>> Сохранить</size>
+> Abort=<size\=8>> Отменить</size>
+> Continue=<size\=8>> Продолжить</size>
+> Save as new preset=<size\=8>> Сохранить новый профиль</size>
+
+### Профили
+
+Presets=Профили
+File config=<size\=13>Файл конфигурации</size>
+Please set a new name for your preset. If you enter an already existing name, you will override that existing preset:=<size\=10>Пожалуйста, задайте новое имя для вашего профиля.</size>\n<size\=8>Если вы введёте уже существующее имя, вы переопределите существующий профиль:</size>
+r:"^Do you really want to remove \"(.+)"\? This step is irreversible\.$"=Вы действительно хотите удалить '$1'? Этот шаг необратим.
+Delete preset=Удалить профиль
+Preset deleted=Профиль удалён
+Name new preset=Назовите новый профиль
+Preset created=Профиль создан
+
+
+### Файл
+
+Settings regarding file handling.=Настройки, касающиеся обработки файлов.
+File=Файл
+Save in profile=Сохранить в профиле
+When activated your progression file will be saved in your profile folder.=После активации ваш файл прогресса будет сохранен в папке вашего профиля.
+
+### Графика
+
+Graphics=Графика
+Change how the vision enhancer looks.=Измените внешний вид усилителя ПНВ (Прибор Ночного Видения).
+Brightness:=Яркость:
+
+### Инвентарь
+
+Here you can customize the appearance of the hotbar.=Здесь вы можете настроить внешний вид Инвентаря.
+Hotbar alpha:=Прозрачность инвентаря:
+Hotbar scale:=Масштаб инвентаря:
+Hotbar=Инвентарь
+Invert scroll:=Инвертировать прокрутку:
+Hotbar border width:=Ширина границы инвентаря
+Hotbar spacing:=Расстояние инвентаря
+
+
+### Косметика
+
+Here you can equip cosmetics for your character. All MoreCompany cosmetics mods are compatible. You can change your cosmetics while in-game.=Здесь вы можете оборудовать косметику для своего персонажа.\nВся косметика из мода More Company совместима.\nТакже вы сможете изменить свою косметику во время игры.
+Drag to rotate=Перетаскивайте, чтобы вращать
+Cosmetics=Косметика
+Loading cosmetics...=Загрузка косметики...
+
+
+### Лобби
+
+Lobby=Лобби
+Lobby size:=Размер лобби:
+
+Day settings=Настройки дня
+Settings to change how days behave.=Настройки для изменения продолжительности дней.
+Length of day:=<size\=10>Продолжительность дня:</size>
+
+Keep open - EXPERIMENTAL=Оставить открытым - экспериментальный
+When activated your Steam lobby will be kept open and joinable when you are in orbit. You can also activate to allow joining of players while on a moon. This will put the players into spectator mode.=После активации ваше лобби Steam останется открытым, и к нему можно будет присоединиться, когда вы находитесь на орбите.\nВы также можете активировать это, чтобы разрешить игрокам присоединяться, находясь на луне.\nЭто перевёдет игроков в режим наблюдения.
+Allow when landed:=Разрешить когда корабль приземлён
+
+Extend deadline=Продлить крайний срок
+When activated you can extend your deadline once per quota on the terminal with the command "extend".=При активации, вы сможете продлить срок один раз для каждой квоты на терминале с помощью команды «extend».
+
+Save suits after being fired=Сохранять костюмы после увольнения
+When activated will save your suits when you are getting fired.=При активации, ваши костюмы будут сохраняться если вас уволят.
+
+Enable cosmetics=Включить косметику
+When activated players will have the ability to wear cosmetics.=При активации, игроки смогут носить косметику.
+
+Save progress=Сохранять прогресс
+When deactivated allows you to customize starting XP and XP multipliers. Progress for all players will be saved in the hosts save file and reset when not meeting the quota.=При деактивации позволяет настраивать начальный опыт и множители опыта.\nПрогресс всех игроков будет сохранен в файле сохранения хоста, и будет сброшен при несоблюдении квоты.
+
+Start XP:=Стартовый Опыт:
+XP=Опыт
+XP multiplier:=Множитель Опыта:
+
+
+### Предметы
+
+Items=Предметы
+Here you can activate and deactivate items. Deactivated items can't be purchased any longer. You can adjust the price and weight of items to balance your lobby.=Здесь вы можете активировать и деактивировать предметы.\nдеактивированные предметы будут недоступны для приобретения.\nВы можете регулировать цену и вес предметов, чтобы сбалансировать своё лобби.
+
+General=Основные
+Name=<size\=13>название</size>
+Price=<size\=13>цена</size>
+Weight=<size\=13>вес</size>
+Maximum\ndiscount=макс.\nскидка
+
+
+
+Missile launcher:=Ракетная установка:
+Rocket boots:=Реактивные ботинки:
+Flippers:=Ласты:
+Vision enhancer:=ПНВ:
+Bulletproof vest:=Бронежилет:
+Lightning rod:=Молниеотвод:
+Helmet lamp:=Налобный фонарь:
+Headset:=Гарнитура:
+Tactical helmet:=Тактический шлем:
+Radar booster:=Радар-усилитель:
+Zap gun:=Электрошокер:
+Walkie talkie:=Рация:
+TZP inhalant:=ТЗП-ингалятор:
+Extension ladder:=Выдвижная лестница:
+Stun grenade:=Шумовая граната:
+Shovel:=Лопата:
+Pro flashlight:=Про-фонарик:
+Lockpicker:=Отмычка:
+Jetpack:=Реактивный ранец:
+Flashlight:=Фонарик:
+Boombox:=Бумбокс:
+Spray paint:=Баллончик с краской:
+
+> Add item=> Добавить Предмет
+
+Vision enhancer=ПНВ
+Here you can change parameters for the vision enhancer.=Здесь вы можете изменить параметры ПНВ (Прибор Ночного Видения).
+Battery life:=Срок службы батареи:
+
+Bulletproof vest=Бронежилет
+Here you can change parameters for the bulletproof vest.=Здесь вы можете изменить параметры для бронежилета.
+Max damage:=<size\=10>Макс. урон:</size>
+HP=ОЗ
+Destroy on no health:=<size\=10>Уничтожать при отсутствии здоровья:</size>
+Turret damage:=<size\=10>Урон турели:</size>
+Shotgun damage:=<size\=10>Урон дробовика:</size>
+Damage reduction at full health:=<size\=10>Снижение урона при полном здоровье:</size>
+Damage reduction at no health:=<size\=10>Снижение урона при отсутствии здоровья:</size>
+
+
+### Перки
+
+Perks=Перки
+Here you can configure which perks to activate. All defined base values will get applied regardless of the active state of the perk, enabling you to use the perks just as a way to tweak your game without using perks.\n\nThe costs are a comma-separated list containing the XP costs for each level. The max level of a perk is determined by the count of values provided.=Здесь вы можете настроить, какие перки активировать.\nВсе определённые базовые значения будут применяться независимо от активного состояния перка, что позволит вам использовать перки просто как способ настройки игры без использования перков.\n\nСтоимость представляет собой список, разделённый запятыми, содержащий кол-во необходимого опыта за каждый уровень.\nМаксимальный уровень перка определяется общим количеством предоставленных значений.
+
+Perk=<size\=13>перк</size>
+Base=<size\=13>база</size>
+Change=<size\=13>улучш.</size>
+Costs=<size\=13>стоимость</size>
+
+Player perks=Перки игрока
+Player perks can be purchased by every player individually and will only have an effect for the player who've bought them.=Перки могут быть приобретены каждым игроком индивидуально и будут иметь эффект только для того игрока, который их купил.
+Sprint speed:=Скорость при спринте:
+Sprint stamina:=Выносливость на спринт:
+Jump height:=Высота прыжка:
+Jump stamina:=Выносливость на прыжок:
+Fall damage:=Урон от падения:
+Damage:=Урон:
+Weight:=Вес:
+Critical strike chance:=Шанс критического удара:
+Climbing speed:=Скорость лазания:
+Inventory slots:=Слоты инвентаря:
+
+Ship perks=Перки корабля
+Ship perks can be purchased by every player for the whole crew and they will have an effect for the entire team.=Перки для корабля могут быть приобретены каждым игроком, и они будут иметь эффекты для всего экипажа.
+Scan distance:=Расстояние сканирования:
+Extra battery:=доп. батарея:
+Extend deadline discount:=Скидка на продление срока:
+Landing speed:=Скорость посадки:
+Delivery speed:=Скорость доставки:
+Save loot:=Сохранять добычу:
+Travel discount:=Скидка на путешествие:
+
+
+### Луны
+
+Moons=Луны
+To balance the game you can apply weather modifiers and change thr prices for moons here:=Чтобы сбалансировать игру, вы можете применить модификаторы погоды и изменить цены на луны здесь:
+
+Weather modifiers=Модификаторы погоды
+If activated you can change the scrap value and amount when certain weather is present on a moon.=Если активировано, вы можете изменить стоимость и количество лома, когда на луне присутствует определённая погода.
+
+Weather=<size\=13>Погода</size>
+Scrap value=<size\=13>Стоимость лома</size>
+Scrap amount=<size\=13>Кол-во лома</size>
+Clear=Благоприятно
+
+> Add moon=> Добавить Луну
+
+Moon prices=Цены на луны
+If activated you can change the prices for moons.=При активации вы можете изменить цены на луны.
+
+Moon=Луна
+Experimentation=Experimentation
+Vow=Vow
+Assurance=Assurance
+Offense=Offense
+March=March
+Rend=Rend
+Dine=Dine
+Titan=Titan
+
+### Итоги
+
+NOTES=ПРИМЕЧАНИЯ
+DECEASED=ПОГИБ
+Grade:=Оценка:
+Collected:=Собрано:
+MISSING\n=ПРОПАВШИЙ\n
+NO SURVIVORS=ВЫЖИВШИХ НЕТ
+LOST 50% SCRAP=ПОТЕРЯНО 50% ЛОМА
+
+### Ручной терминал
+
+## Help
+                      ╔═════════════╗\r\n╭─────────────────────╢ <color\=#ff6666>ADVANCED</color> <color\=#ffffff>OS</color> ╟────────────────────╮\r\n│                     ╚═════════════╝                    │\r\n│                    advancing mankind                   │\r\n│                                                        │\r\n│ Welcome Lethal-1,                                      │\r\n│ Your <color\=#ffffff>license</color> is <color\=#00ff00>valid</color> for <color\=#ffffff>3 years</color>                      │\r\n│                                                        │\r\n│ Please type one of the following commands:             │\r\n│ <color\=#ffffff>▶ PERKS</color>                                                │\r\n│   Let you level your perks on-the-fly                  │\r\n│ <color\=#ffffff>▶ EXTEND</color>                                               │\r\n│   Extend the deadline.                                 │\r\n│ <color\=#ffffff>▶ STORE</color>                                                │\r\n│   Open the store.                                      │\r\n│ <color\=#ffffff>▶ HELP</color>                                                 │\r\n│   Shows this text for guidance.                        │\r\n│                                                        │\r\n╰────────────────────────────────────────────────────────╯\r\n\r\n=                      ╔═════════════╗\r\n╭─────────────────────╢ <color\=#ff6666>ADVANCED</color> <color\=#ffffff>ОС</color> ╟────────────────────╮\r\n│                     ╚═════════════╝                    │\r\n│                  развиваем человечество                │\r\n│                                                        │\r\n│ Здравстуйте Lethal-1,                                  │\r\n│ Ваша <color\=#ffffff>лицензия</color> <color\=#00ff00>действительна</color> ещё <color\=#ffffff>3 года</color>                 │\r\n│                                                        │\r\n│ Пожалуйста, введите одну из следующих команд:          │\r\n│ <color\=#ffffff>▶ PERKS</color>                                                │\r\n│   Позвольте себе качать перки на лету.                 │\r\n│ <color\=#ffffff>▶ EXTEND</color>                                               │\r\n│   Продлевает крайний срок.                             │\r\n│ <color\=#ffffff>▶ STORE</color>                                                │\r\n│   Открывает магазин.                                   │\r\n│ <color\=#ffffff>▶ HELP</color>                                                 │\r\n│   Показывает этот текст для справки.                   │\r\n│                                                        │\r\n╰────────────────────────────────────────────────────────╯\r\n\r\n
+## Extend
+  ╔═════════════════╗\n╭─╢ <color\=#ffffff>EXTEND DEADLINE</color> ╟────────────────────────────────────╮\n│ ╚═════════════════╝                                    │\n│ To extend the deadline you need 130 credits.           │\n│                                                        │\n│ Insufficient funds.                                    │\n│  ► BACK                                                │\n╰────────────────────────────────────────────────────────╯\n=  ╔═════════════════╗\n╭─╢ <color\=#ffffff>ПРОДЛЕНИЕ СРОКА</color> ╟────────────────────────────────────╮\n│ ╚═════════════════╝                                    │\n│ Чтобы продлить срок, вам нужно 130 кредитов.           │\n│                                                        │\n│ Недостаточно средств.                                  │\n│  ▶ НАЗАД                                               │\n╰────────────────────────────────────────────────────────╯\n
+  ╔═════════════════╗\n╭─╢ <color\=#ffffff>EXTEND DEADLINE</color> ╟────────────────────────────────────╮\n│ ╚═════════════════╝                                    │\n│ To extend the deadline you need 130 credits.           │\n│                                                        │\n│ Do you really want to extend the deadline?             │\n│  ► CONFIRM                                             │\n│    DENY                                                │\n╰────────────────────────────────────────────────────────╯\n=  ╔═════════════════╗\n╭─╢ <color\=#ffffff>ПРОДЛЕНИЕ СРОКА</color> ╟────────────────────────────────────╮\n│ ╚═════════════════╝                                    │\n│ Чтобы продлить срок, вам нужно 130 кредитов.           │\n│                                                        │\n│ Вы действительно хотите продлить срок?                 │\n│  ► ПОДТВЕРДИТЬ                                         │\n│    ОТМЕНИТЬ                                            │\n╰────────────────────────────────────────────────────────╯\n
+  ╔═════════════════╗\n╭─╢ <color\=#ffffff>EXTEND DEADLINE</color> ╟────────────────────────────────────╮\n│ ╚═════════════════╝                                    │\n│ To extend the deadline you need 130 credits.           │\n│                                                        │\n│ Do you really want to extend the deadline?             │\n│    CONFIRM                                             │\n│  ► DENY                                                │\n╰────────────────────────────────────────────────────────╯\n=  ╔═════════════════╗\n╭─╢ <color\=#ffffff>ПРОДЛЕНИЕ СРОКА</color> ╟────────────────────────────────────╮\n│ ╚═════════════════╝                                    │\n│ Чтобы продлить срок, вам нужно 130 кредитов.           │\n│                                                        │\n│ Вы действительно хотите продлить срок?                 │\n│    ПОДТВЕРДИТЬ                                         │\n│  ► ОТМЕНИТЬ                                            │\n╰────────────────────────────────────────────────────────╯\n
+
+[ Deadline was extended by one day ]\r\n=[ Срок продлён на один день ]\r\n
+
+## Store
+
+Thanks for your purchase! Your ordered items are on the way!\r\n=Спасибо за покупку! Заказанные вами товары уже в пути!\r\n
+
+#### Предметы и Скрап
+
+Drop Missile launcher : [G]=Выбросить Установку: [G]
+Drop Lightning rod : [G]=Выбросить Громоотвод: [G]
+Drop Vision enhancer : [G]=Выбросить ПНВ: [G]
+Drop Flippers : [G]=Выбросить Ласты: [G]
+Drop Bulletproof vest : [G]=Выбросить Бронежилет: [G]
+Drop Rocket boots : [G]=Выбросить Ботинки: [G]
+Drop Headset : [G]=Выбросить Гарнитуру: [G]
+Drop Helmet lamp : [G]=Выбросить Фонарь: [G]
+Drop Tactical Helmet : [G]=Выбросить Шлем: [G]
+Drop Removed item : [G]=Выбросить Удалённый предмет: [G]
+
+Warplane toy=Военный самолётик
+Drop Warplane toy : [G]=Выбросить Самолётик: [G]
+Warplane toy collected!=Военный самолётик собран!
+
+Toy car=Игрушечная машинка
+Drop Toy car : [G]=Выбросить Машинку: [G]
+Toy car collected!=Игрушечная машинка собрана!
+
+Toy tank=Игрушечный танк
+Drop Toy tank : [G]=Выбросить Танк: [G]
+Toy tank collected!=Игрушечный танк собран!
+
+Skillet=Сковорода
+Drop Skillet : [G]=Выбросить Сковороду: [G]
+Skillet collected!=Сковорода собрана!
+
+Potatoes=Картофель
+Drop Potatoes : [G]=Выбросить Картофель: [G]
+Potatoes collected!=Картофель собран!
+

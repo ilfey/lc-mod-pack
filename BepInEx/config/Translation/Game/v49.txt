@@ -1,0 +1,10 @@
+v49=<size%3D20>V49\n(RU)</size>
+v49 (MC)=<size%3D20>v49\n(RU)</size>
+v49 MOD=<size%3D20>v49\n(RU)</size>
+
+Version 47 is out!=<size\=23>Версия 49 уже доступна!</size>
+
+Welcome!\nThis patch includes the replayable challenge moons and new factory hallway types, as well as some tweaks to existing creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Добро пожаловать!\nЭтот патч включает в себя еженедельные челлендж-луны и новые типы коридоров, а также были произведены некоторые изменения в существах.\n\nВашим друзьям придётся обновить свою игру, чтобы играть с вами на этой версии.\n\n\nУдачи!
+
+
+[ Continue ]=[ Продолжить ]
